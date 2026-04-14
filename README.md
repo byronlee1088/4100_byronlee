@@ -29,7 +29,7 @@ My journey in Applied Computational Physics and hands-on technical experience ha
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CCNA&logoColor=white" />
 </div>
 
 ## Projects
