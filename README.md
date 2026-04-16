@@ -3,7 +3,7 @@
 
 Cybersecurity and network support professional with hands-on experience in LAN/WAN troubleshooting, network configuration, and secure communications. Brings military-grade discipline and over 800+ hours operating mission-critical UAV systems, along with experience in Python, network analysis, and system monitoring.
 
-Skilled in diagnosing connectivity issues, analyzing system logs, and maintaining secure IT infrastructure. Holds certifications in Full Stack Networking (FSNA/FSNP), with active training toward CCNA. Experienced in real-time operations, incident documentation, and secure data handling under strict compliance standards.
+Cisco CCNA Certified, skilled in diagnosing connectivity issues, analyzing system logs, and maintaining secure IT infrastructure. Holds certifications in Full Stack Networking (FSNA/FSNP). Experienced in real-time operations, incident documentation, and secure data handling under strict compliance standards.
 ## Objective
 
 My journey in Applied Computational Physics and hands-on technical experience has led me to develop a strong passion for cybersecurity. I am actively seeking to transition into a Security Operations Center (SOC) or Network Engineering role, where I can apply my skills in network monitoring, threat detection, and incident response.
@@ -29,7 +29,7 @@ My journey in Applied Computational Physics and hands-on technical experience ha
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CCNA&logoColor=white" />
+<img src="https://img.shields.io/badge/CCNA-FF0000?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Projects
