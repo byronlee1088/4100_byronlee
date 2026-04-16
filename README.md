@@ -29,7 +29,7 @@ My journey in Applied Computational Physics and hands-on technical experience ha
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/CCNA-FF0000?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://bsu.edu2.com/Images/certs/CISCOCCNA.png" width="200"/>
 </div>
 
 ## Projects
